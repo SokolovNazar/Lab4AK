@@ -1,0 +1,5 @@
+/home/steream/Lab4AK/CMakeFiles/rebuild_cache.dir
+/home/steream/Lab4AK/CMakeFiles/edit_cache.dir
+/home/steream/Lab4AK/CMakeFiles/main.dir
+/home/steream/Lab4AK/CMakeFiles/hello.dir
+/home/steream/Lab4AK/CMakeFiles/factorial.dir
